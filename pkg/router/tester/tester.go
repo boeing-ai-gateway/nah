@@ -13,8 +13,8 @@ import (
 	"time"
 
 	"github.com/hexops/autogold/v2"
-	"github.com/obot-platform/nah/pkg/router"
-	"github.com/obot-platform/nah/pkg/yaml"
+	"github.com/boeing-ai-gateway/nah/pkg/router"
+	"github.com/boeing-ai-gateway/nah/pkg/yaml"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"k8s.io/apimachinery/pkg/runtime"

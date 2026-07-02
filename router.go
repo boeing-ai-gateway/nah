@@ -3,11 +3,11 @@ package nah
 import (
 	"fmt"
 
-	"github.com/obot-platform/nah/pkg/backend"
-	"github.com/obot-platform/nah/pkg/leader"
-	"github.com/obot-platform/nah/pkg/restconfig"
-	"github.com/obot-platform/nah/pkg/router"
-	nruntime "github.com/obot-platform/nah/pkg/runtime"
+	"github.com/boeing-ai-gateway/nah/pkg/backend"
+	"github.com/boeing-ai-gateway/nah/pkg/leader"
+	"github.com/boeing-ai-gateway/nah/pkg/restconfig"
+	"github.com/boeing-ai-gateway/nah/pkg/router"
+	nruntime "github.com/boeing-ai-gateway/nah/pkg/runtime"
 	"k8s.io/apimachinery/pkg/fields"
 	"k8s.io/apimachinery/pkg/labels"
 	"k8s.io/apimachinery/pkg/runtime"

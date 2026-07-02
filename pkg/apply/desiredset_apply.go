@@ -5,8 +5,8 @@ import (
 	"encoding/hex"
 	"fmt"
 
-	"github.com/obot-platform/nah/pkg/apply/objectset"
-	"github.com/obot-platform/nah/pkg/merr"
+	"github.com/boeing-ai-gateway/nah/pkg/apply/objectset"
+	"github.com/boeing-ai-gateway/nah/pkg/merr"
 	"k8s.io/apimachinery/pkg/api/meta"
 	"k8s.io/apimachinery/pkg/labels"
 	"k8s.io/apimachinery/pkg/runtime"

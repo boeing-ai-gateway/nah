@@ -7,8 +7,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/obot-platform/nah/pkg/log"
-	"github.com/obot-platform/nah/pkg/tracing"
+	"github.com/boeing-ai-gateway/nah/pkg/log"
+	"github.com/boeing-ai-gateway/nah/pkg/tracing"
 	"go.opentelemetry.io/otel/attribute"
 	"go.opentelemetry.io/otel/trace"
 	apierror "k8s.io/apimachinery/pkg/api/errors"

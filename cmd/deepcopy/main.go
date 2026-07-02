@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/obot-platform/nah/pkg/deepcopy"
+	"github.com/boeing-ai-gateway/nah/pkg/deepcopy"
 )
 
 func main() {

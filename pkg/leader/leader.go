@@ -6,8 +6,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/obot-platform/nah/pkg/leader/locks"
-	"github.com/obot-platform/nah/pkg/log"
+	"github.com/boeing-ai-gateway/nah/pkg/leader/locks"
+	"github.com/boeing-ai-gateway/nah/pkg/log"
 	"k8s.io/apimachinery/pkg/runtime"
 	"k8s.io/client-go/rest"
 	"k8s.io/client-go/tools/leaderelection"

@@ -3,7 +3,7 @@ package apply
 import (
 	"context"
 
-	"github.com/obot-platform/nah/pkg/apply/objectset"
+	"github.com/boeing-ai-gateway/nah/pkg/apply/objectset"
 	"k8s.io/apimachinery/pkg/runtime/schema"
 	kclient "sigs.k8s.io/controller-runtime/pkg/client"
 	"sigs.k8s.io/controller-runtime/pkg/client/apiutil"

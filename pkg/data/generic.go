@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/obot-platform/nah/pkg/typed"
+	"github.com/boeing-ai-gateway/nah/pkg/typed"
 	"github.com/sirupsen/logrus"
 	"k8s.io/kube-openapi/pkg/common"
 	"k8s.io/kube-openapi/pkg/validation/spec"

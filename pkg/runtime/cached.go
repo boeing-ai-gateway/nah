@@ -7,8 +7,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/obot-platform/nah/pkg/tracing"
-	"github.com/obot-platform/nah/pkg/untriggered"
+	"github.com/boeing-ai-gateway/nah/pkg/tracing"
+	"github.com/boeing-ai-gateway/nah/pkg/untriggered"
 	apierrors "k8s.io/apimachinery/pkg/api/errors"
 	"k8s.io/apimachinery/pkg/api/meta"
 	"k8s.io/apimachinery/pkg/runtime"

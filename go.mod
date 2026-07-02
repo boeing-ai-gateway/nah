@@ -1,4 +1,4 @@
-module github.com/obot-platform/nah
+module github.com/boeing-ai-gateway/nah
 
 go 1.24.0
 

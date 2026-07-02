@@ -3,7 +3,7 @@ package router
 import (
 	"context"
 
-	"github.com/obot-platform/nah/pkg/backend"
+	"github.com/boeing-ai-gateway/nah/pkg/backend"
 	"k8s.io/apimachinery/pkg/api/meta"
 	"k8s.io/apimachinery/pkg/fields"
 	"k8s.io/apimachinery/pkg/labels"

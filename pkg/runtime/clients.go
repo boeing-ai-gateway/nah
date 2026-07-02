@@ -3,8 +3,8 @@ package runtime
 import (
 	"time"
 
-	"github.com/obot-platform/nah/pkg/mapper"
-	"github.com/obot-platform/nah/pkg/tracing"
+	"github.com/boeing-ai-gateway/nah/pkg/mapper"
+	"github.com/boeing-ai-gateway/nah/pkg/tracing"
 	"go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp"
 	"k8s.io/apimachinery/pkg/fields"
 	"k8s.io/apimachinery/pkg/labels"

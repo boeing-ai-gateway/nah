@@ -5,7 +5,7 @@ import (
 	"maps"
 	"sync"
 
-	"github.com/obot-platform/nah/pkg/tracing"
+	"github.com/boeing-ai-gateway/nah/pkg/tracing"
 	"k8s.io/apimachinery/pkg/runtime/schema"
 	"k8s.io/client-go/util/workqueue"
 	"sigs.k8s.io/controller-runtime/pkg/cache"
